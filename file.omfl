@@ -1,0 +1,17 @@
+int_var = 123
+float_var = 321.654
+bool_var = true
+other_bool_var = false
+string_var = "string test [] blabla 12315465 \'vae3s "
+array_var = [1, 2.5, true, "string", [[false]]]
+
+[subsection.subsubsection1]
+balaclava = "BALACLAVA"
+bass = 15.67
+is_kidney_beans_boiled  = false
+
+[another_subsection]
+test = "test"
+
+[subsection]
+omfl_format_sucks = true
